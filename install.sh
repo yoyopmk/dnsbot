@@ -28,7 +28,7 @@ echo -e "\033[1;32mAnda Mencukupi Umur Untuk Menggunakan Dns Bot\nWelcome Gunaka
 else
 echo -e "\033[1;31mAnda Belum Mencukupi Umur Untuk Menggunakan Dns Bot\nBerjanjilah Untuk Menggunakan Dns Bot Dengan Bijak Dan Tidak Menjual Belikan Script Dns Bot\033[0m"
 fi
-echo -e "\033[1;34m[ DNS BOT ]\033[0m"
+echo -e "\n\033[1;34m[ DNS BOT ]\033[0m"
 echo -e "\033[1;35mReport Bug\033[0m"
 echo "https://wa.me/6285866295942"
 echo -e "\033[1;35mInstagram\033[0m"
